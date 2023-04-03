@@ -2,7 +2,7 @@
 <<<<<<< Updated upstream
 ## How to run Twitter_snsscrape_project_misinformation.ipynb
 
-1. Run 12 ipynb files to scrape tweets from 12 News Medias at chosen timeframe, it will create corresponding csv files which are scraped data <br />
+1. Run 12 ipynb files under code/misinformation directory to scrape tweets from 12 News Medias at chosen timeframe, it will create corresponding csv files which are scraped data <br />
 
 Required files : <br />
 -ABC News.ipynb <br />
