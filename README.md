@@ -18,6 +18,7 @@ Required files : <br />
 -WSJ.ipynb
 
 2. We will make use of scraped data from 12 csv files , and also we need 3 other csv files (Fake.csv, True.csv , manual_testing.csv) which were datasets used to train the open-source fake news detection model. Run the twitter_snscrape_project_misinformation , it will generate the visualization output at the bottom of notebook. <br />
+
 Required files : <br />
 -Twitter_snscrape_project_misinformation.ipynb <br />
 -Fake.csv <br />
