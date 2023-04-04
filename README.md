@@ -72,3 +72,8 @@ during2_covidTweets_v2.csv
 post_covidTweets_v2.csv
 
 =======
+## How to dashboard<br>
+
+go to code/dashboard/dashboard <br>
+
+In terminal , type 'npm install' , then 'npm start'
